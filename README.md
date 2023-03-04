@@ -1,2 +1,2 @@
 # Amazon-Sales
-Data Analyis, Visulalization and prediction of customer behavoir based on given ratings to different Amazon products
+Data Analyis, Visulalization and prediction of customer behavoir based on ratings given to different Amazon products
